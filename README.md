@@ -1,0 +1,3 @@
+- Scraping data from Carwale using requests
+- Storing data into xlsx, csv and JSON formats
+- Scraping using cookies
